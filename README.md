@@ -1,3 +1,3 @@
 # moha-portfolio-website
 
-[Live Demo](http://mohazizzi.com/)
+[Live Demo](https://mohazizzi.github.io/moha-portfolio-website/)
