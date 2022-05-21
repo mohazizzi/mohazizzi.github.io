@@ -211,7 +211,7 @@ ul{
   visibility: hidden;
 }
 /* -----------------------navbar end--------------------- */
-/* -----------------------parallax shape----------------- */
+/* ----------------------parallax shape----------------- */
 .parallax{
   position: absolute;
   top: 0;
@@ -278,7 +278,7 @@ ul{
   left: 10%;
   color: #563d7c;
 }
-/* -----------------------parallax shape end------------- */
+/* ----------------------parallax shape end------------- */
 /* -----------------------header------------------------- */
 .main_hero{
   position: relative;
